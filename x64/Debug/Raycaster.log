@@ -1,0 +1,16 @@
+﻿  Main.cpp
+C:\Users\valen\Desktop\Rasterizer\Main.cpp(206,36): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\valen\Desktop\Rasterizer\Main.cpp(207,36): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\valen\Desktop\Rasterizer\Main.cpp(211,18): warning C4244: 'initialisation' : conversion de 'const T' en 'int', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\valen\Desktop\Rasterizer\Main.cpp(212,18): warning C4244: 'initialisation' : conversion de 'const T' en 'int', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\valen\Desktop\Rasterizer\Main.cpp(271,21): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\valen\Desktop\Rasterizer\Main.cpp(370,19): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  Raycaster.vcxproj -> C:\Users\valen\Desktop\Rasterizer\x64\Debug\Raycaster.exe

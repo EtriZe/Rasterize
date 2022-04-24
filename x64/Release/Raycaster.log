@@ -1,0 +1,18 @@
+﻿  Main.cpp
+C:\Users\valen\Desktop\Rasterizer\Main.cpp(206,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\valen\Desktop\Rasterizer\Main.cpp(207,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\valen\Desktop\Rasterizer\Main.cpp(211,18): warning C4244: 'initialisation' : conversion de 'const T' en 'int', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\valen\Desktop\Rasterizer\Main.cpp(212,18): warning C4244: 'initialisation' : conversion de 'const T' en 'int', perte possible de données
+          with
+          [
+              T=float
+          ]
+  Génération de code en cours
+  Previous IPDB not found, fall back to full compilation.
+  All 91 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  Raycaster.vcxproj -> C:\Users\valen\Desktop\Rasterizer\x64\Release\Raycaster.exe
