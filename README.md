@@ -14,8 +14,8 @@ ET SURTOUT le nettoyer.
 
 Exercice : 
 
-Voici le projet Visual Studio de référence pour le 2e projet "Raycaster".
-La technique est une simplification du raytracing optimisé pour murs verticaux. Vous trouverez sur internet beaucoup de références le concernant.
+!Voici le projet Visual Studio de référence pour le 2e projet "Raycaster".
+!La technique est une simplification du raytracing optimisé pour murs verticaux. Vous trouverez sur internet beaucoup de références le concernant.
 
 Pour rappel il s'agit de rendre une scène 3D comme le tout premier jeu en 3D "Wolfenstein" en SFML.
 
