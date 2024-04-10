@@ -14,6 +14,7 @@ ET SURTOUT le nettoyer.
 
 Exercice : 
 
+```diff
 !Voici le projet Visual Studio de référence pour le 2e projet "Raycaster".
 !La technique est une simplification du raytracing optimisé pour murs verticaux. Vous trouverez sur internet beaucoup de références le concernant.
 
